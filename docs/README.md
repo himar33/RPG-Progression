@@ -6,3 +6,13 @@ Game progression refers to momentum earned via in game abstraction: Leveling up 
 Obviously someone who is really good at the game will be able to beat more levels and earn more achievements compared to someone who isn’t. Both forms of progression have the same goal: To prevent the player from feeling like their time is being wasted.
 
 ![](images/progression.jpg)
+
+This progression can be divided into player, playable character and game:
+
+### Progression Types
+#### Player
+Player progression refers to the player’s skill level improving and learning how the game works. Such as learning the right combos and special moves to use in a fighting game.
+#### Character
+In-game avatar becoming stronger outside of the player’s skill.
+#### Game
+Moving through the various levels or areas of the game until you reach the credits.
