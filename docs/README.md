@@ -16,3 +16,30 @@ Player progression refers to the player’s skill level improving and learning h
 In-game avatar becoming stronger outside of the player’s skill.
 #### Game
 Moving through the various levels or areas of the game until you reach the credits.
+
+The three types of progression that I have discussed before focus on the element that progresses, but how does this element progress?
+There can be two types of progress, **positive**, the most used in digital RPGs, or **negative**, less seen in video games but quite used in tabletop role-playing games.
+
+**Positive** progression always improves stats from low to high. Although there are attacks that can lower you some stat, if this decrease is only during combat, it is not considered negative progression.
+
+On the other hand, **negative** progression is usually internal or external factors of the character that cause your stats to decrease. There can be many different reasons, for example, you reach a high age, you have died many times, or you have been cursed for life. Example of games with negative progression:
+
+![](images/mamv.png)
+
+#### Might and Magic VIII (2000)
+This game has an age penalty system. Your characters have an age variable that increases over time. When you reach a certain age, the stats are reduced and even, after 80 years of age, in the middle of a fight, you can die.
+
+![](images/wizardry.png)
+
+#### Wizardry VI (1990)
+In this game when a character in your group dies, you can revive him, but with less and less life. When it reaches 0 health after being revived several times, it can no longer be used.
+
+But, let's go further, before digital RPG games were created. Let's talk about the first official character progression system.
+
+### Basic Role-Playing
+
+**Basic Role-Playing** it's a rule book of a tabletop role-playing game which originated in the RuneQuest fantasy role-playing game, in 1980. BRP is similar to other generic systems such as GURPS, Hero System or Savage Worlds in that it uses a simple resolution method which can be broadly applied. BRP uses a core set of seven characteristics: Size, Strength, Dexterity, Constitution, Intelligence, Power, and Appearance or Charisma. From those, a character derives scores in various skills, expressed as percentages. These skill scores are the basis of play. When attempting an action, the player rolls percentile dice trying to get a result equal to or lower than the character's current skill score.
+
+The last major element of many BRP games is that there is no difference between the player character race systems and that of the monster or opponents. By varying ability scores, the same system is used for a human hero as a troll villain. This approach allows for players to play a wide variety of non-human species.
+
+![](images/brp.png)
