@@ -11,11 +11,13 @@ This progression can be divided into player, playable character and game:
 
 ### Progression Types
 #### Player
-Player progression refers to the player’s skill level improving and learning how the game works. Such as learning the right combos and special moves to use in a fighting game.
+“Player” progression refers to the person playing the game improving their skill and knowledge of the design. Many action-based titles are designed around the player getting better at the game to have any chance of winning — a big example being the Souls series.
 #### Character
-In-game avatar becoming stronger outside of the player’s skill.
+“Character” or “Abstracted” progression refers to the in-game avatar becoming stronger outside of the player’s skill. RPGs are the best example of this, and the whole abstract concept of leveling up.
 #### Game
 Moving through the various levels or areas of the game until you reach the credits.
+
+Depending on the design of your title, you may have any combination of the three as the focal point. The important part is understanding what progression means to your title and to the people playing it.
 
 The three types of progression that I have discussed before focus on the element that progresses, but how does this element progress?
 There can be two types of progress, **positive**, the most used in digital RPGs, or **negative**, less seen in video games but quite used in tabletop role-playing games.
@@ -43,3 +45,13 @@ But, let's go further, before digital RPG games were created. Let's talk about t
 The last major element of many BRP games is that there is no difference between the player character race systems and that of the monster or opponents. By varying ability scores, the same system is used for a human hero as a troll villain. This approach allows for players to play a wide variety of non-human species.
 
 ![](images/brp.png)
+
+### Grind
+#### What is this?
+“Grinding” or “Grind” can mean different elements depending on the genre and player, we’re going to define it as this:
+
+Grind: The period of time in a game when the player’s ability to progress is reduced to a few set options, and everything else will not move them forward.
+
+One of the key signs that your game becomes a grind is when there are things the player could be doing, but doing them would be a waste of time at this point. A famous example is from the MMO genre, and if the player runs out of quests at their level range to do, doing lower level quests will not earn them anywhere near the experience needed to keep going.
+
+![](images/wow.png)
