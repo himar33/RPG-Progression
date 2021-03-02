@@ -5,4 +5,4 @@ Game progression refers to momentum earned via in game abstraction: Leveling up 
 
 Obviously someone who is really good at the game will be able to beat more levels and earn more achievements compared to someone who isn’t. Both forms of progression have the same goal: To prevent the player from feeling like their time is being wasted.
 
-![*Heroes of Dragon Age* (2013)](images/progression.jpg)
+![](images/progression.jpg)
