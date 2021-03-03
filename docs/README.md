@@ -187,4 +187,29 @@ Yes, RPG gamers are a diverse bunch, and what might be fun for one gamer can be 
 
 Determining the percentage of gamers that fall into each category would be difficult, especially in the current gaming climate.
 
+### Bibliography
+[https://www.worldanvil.com/w/cd10/a/design-philosophy-progression-systems](https://www.worldanvil.com/w/cd10/a/design-philosophy-progression-systems)
+
+[https://www.davideaversa.it/blog/gamedesign-math-rpg-level-based-progression/](https://www.davideaversa.it/blog/gamedesign-math-rpg-level-based-progression/)
+
+[https://medium.com/@GWBycer/the-limitations-of-leveling-systems-in-game-design-f06a2a14c026](https://medium.com/@GWBycer/the-limitations-of-leveling-systems-in-game-design-f06a2a14c026)
+
+[http://howtomakeanrpg.com/a/how-to-make-an-rpg-levels.html](http://howtomakeanrpg.com/a/how-to-make-an-rpg-levels.html)
+
+[https://my.eng.utah.edu/~zagal/Papers/Zagal_Altizer_RPG_Elements_Progression.pdf](https://my.eng.utah.edu/~zagal/Papers/Zagal_Altizer_RPG_Elements_Progression.pdf)
+
+[https://www.slideshare.net/IvanMilev2/examples-of-different-leveling-and-skill-points-systems](https://www.slideshare.net/IvanMilev2/examples-of-different-leveling-and-skill-points-systems)
+
+[https://en.uesp.net/wiki/Skyrim:Leveling](https://en.uesp.net/wiki/Skyrim:Leveling)
+
+[https://pathofexile.gamepedia.com/Path_of_Exile_Wiki](https://pathofexile.gamepedia.com/Path_of_Exile_Wiki)
+
+[https://www.gamasutra.com/view/news/273320/7_progression_and_event_systems_that_every_developer_should_study.php](https://www.gamasutra.com/view/news/273320/7_progression_and_event_systems_that_every_developer_should_study.php)
+
+[https://www.gamasutra.com/view/feature/2843/applying_risk_analysis_to_.php](https://www.gamasutra.com/view/feature/2843/applying_risk_analysis_to_.php)
+
+[https://diablo.fandom.com/wiki/Character_Level#Diablo_II](https://diablo.fandom.com/wiki/Character_Level#Diablo_II)
+
+[https://kotaku.com/how-to-balance-an-rpg-1625516832](https://kotaku.com/how-to-balance-an-rpg-1625516832)
+
 # Thanks for reading this!
