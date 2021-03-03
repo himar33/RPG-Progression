@@ -57,7 +57,7 @@ Grind: The period of time in a game when the player’s ability to progress is r
 
 One of the key signs that your game becomes a grind is when there are things the player could be doing, but doing them would be a waste of time at this point. A famous example is from the MMO genre, and if the player runs out of quests at their level range to do, doing lower level quests will not earn them anywhere near the experience needed to keep going.
 
-![](images/wow.png)
+![](images/wow.gif)
 
 #### How to eliminate grind?
 
