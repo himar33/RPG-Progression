@@ -129,3 +129,31 @@ A function that, given a level, tell us how much experience we need for this:
 **Logarithmic**: At every level, we need less experience to level-up and, consequently, the more we play, the faster we level-up.
 
 ![](images/curves.png)
+
+### Real Examples
+#### Original D&D
+Dungeons and Dragons is the game many early JRPGs used for their inspiration, so it seems only fair to include it's level function.
+```c
+function nextLevel(level)
+    return 500 * (level ^ 2) - (500 * level)
+end
+```
+![](images/d&d.png)
+
+#### Generation 1 Pokemon
+Pokemon actually has two leveling systems, this is the faster of the two.
+```c
+function nextLevel(level)
+    return round((4 * (level ^ 3)) / 5)
+end
+```
+![](images/pokemon.png)
+
+#### Disgaea
+Disgea applies this formula to the first 99 levels after that it changes things up.
+```c
+function nextLevel(level)
+     return round( 0.04 * (level ^ 3) + 0.8 * (level ^ 2) + 2 * level)
+end
+```
+![](images/disgae.png)
