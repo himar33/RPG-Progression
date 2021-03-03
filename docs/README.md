@@ -87,12 +87,14 @@ The general idea is that the more is your level, the more experience you need to
 #### Why using this system?
 Levels and experience points are a popular mechanic with both players and designers for some of the following reasons:
 
-1. Sense of Achievement
+**Sense of Achievement**
+
 Gaining a level gives the player a sense of achievement and it's an acknowledgement of the player's efforts. When the level number increases it's a way of giving the player a pat on the back and saying "Good job!". The number increasing is a small reward all on it's own but RPG's usually give out additional rewards by increasing the players stats and sometimes unlocking special abilities.
 
 The value in gaining a level is related to how difficult it is to achieve. In order for a level to have value, the player needs to struggle and overcome adversity to reach it. Higher levels require more XP and take longer to reach because the time invested is proportional to the reward. The distance between levels gives them meaning.
 
-2. The Hero's Journey
+**The Hero's Journey**
+
 JRPG characters are literally on a hero’s journey. Their level indicates how far they’ve come from the starting point and hint how far is left to go.
 
 Levels describe the characters growth as they overcome obstacles in the game. Each level bumps the character’s stats, so as the character levels up they become stronger and more powerful in the game world. The flow of the game represents this, the enemies the player is currently battling will suddenly be a little easier, but very quickly the player will discover more powerful enemies and will be battling up hill again. If combat ever gets too easy, it becomes boring.
@@ -101,14 +103,16 @@ Levels describe the characters growth as they overcome obstacles in the game. Ea
 
 Difficulty follows a step function, things become briefly easier only to become even harder than before.
 
-3. Dripfeed Complex Mechanics
+**Dripfeed Complex Mechanics**
+
 Most JRPGs have quite complicated battle mechanics with status effects, various types of spell, elements, chain attacks and so on. The battle systems can be so complicated that it's too much to try and show the player all at once. Instead as the player slowly levels up, mechanics are introduced in understandable chunks. This dripfeed helps make the game more accessible and the shallows out the learning curve.
 
 At level 1 only the most basic mechanics are available making combat straight forward for a new player. The choices are very restricted, so the player can quickly try them all out. Gaining levels unlocks new abilities and spells which the player can immediately try out and get comfortable with before the next mechanic is introduced.
 
 This dripfeed also applies to enemies. Early in the game enemies exhibit simple behaviors and few abilities but as the characters level up and progress to new areas, they meet new monsters with special attacks and more advanced tactics. For the player to encounter these more advanced enemies, they must first defeat the simpler enemies by mastering the basic combat techniques.
 
-4. Control the Flow of Content
+**Control the Flow of Content**
+
 Levels help drip feed mechanics but they also help control how the player navigates the world.
 
 Is there a cave where the monsters are far too hard? Maybe the player can’t tackle it yet, but they’ll remember the cave, it will become a goal, something to return to with stronger characters.
