@@ -7,6 +7,9 @@ Obviously someone who is really good at the game will be able to beat more level
 
 ![](images/progression.jpg)
 
+#### Why is important a good progression?
+A good progression model motivates the player to keep playing; no matter if they’re winning or losing. Nothing stops someone more from playing a game when it feels like they’re not making any progress, or they’re losing it. Even if the progress can be measured in centimeters, as long as they’re moving forward, the player will still be motivated
+
 This progression can be divided into player, playable character and game:
 
 ### Progression Types
@@ -78,3 +81,51 @@ These fights cannot be avoided in any way, unless you have a special item, diffi
 ![](images/pachanga2.png)
 
 In Inazuma Eleven Go they have some random encounters, but only once per NPC. Then you will find the NPCs in the same place to be able to challenge them if you want. You don't force the player to have to face each other all the time, you let him decide whether to grind or not.
+
+### RPG Level-Based Progression
+The general idea is that the more is your level, the more experience you need to advance to the next one. This is true, but it is just a small part of the design. In fact, you must keep in mind the effect of any gameplay element on the player, and you must be sure that what you do produces the emotion you want to convey.
+#### Why using this system?
+Levels and experience points are a popular mechanic with both players and designers for some of the following reasons:
+
+1. Sense of Achievement
+Gaining a level gives the player a sense of achievement and it's an acknowledgement of the player's efforts. When the level number increases it's a way of giving the player a pat on the back and saying "Good job!". The number increasing is a small reward all on it's own but RPG's usually give out additional rewards by increasing the players stats and sometimes unlocking special abilities.
+
+The value in gaining a level is related to how difficult it is to achieve. In order for a level to have value, the player needs to struggle and overcome adversity to reach it. Higher levels require more XP and take longer to reach because the time invested is proportional to the reward. The distance between levels gives them meaning.
+
+2. The Hero's Journey
+JRPG characters are literally on a hero’s journey. Their level indicates how far they’ve come from the starting point and hint how far is left to go.
+
+Levels describe the characters growth as they overcome obstacles in the game. Each level bumps the character’s stats, so as the character levels up they become stronger and more powerful in the game world. The flow of the game represents this, the enemies the player is currently battling will suddenly be a little easier, but very quickly the player will discover more powerful enemies and will be battling up hill again. If combat ever gets too easy, it becomes boring.
+
+![](images/level.png)
+
+Difficulty follows a step function, things become briefly easier only to become even harder than before.
+
+3. Dripfeed Complex Mechanics
+Most JRPGs have quite complicated battle mechanics with status effects, various types of spell, elements, chain attacks and so on. The battle systems can be so complicated that it's too much to try and show the player all at once. Instead as the player slowly levels up, mechanics are introduced in understandable chunks. This dripfeed helps make the game more accessible and the shallows out the learning curve.
+
+At level 1 only the most basic mechanics are available making combat straight forward for a new player. The choices are very restricted, so the player can quickly try them all out. Gaining levels unlocks new abilities and spells which the player can immediately try out and get comfortable with before the next mechanic is introduced.
+
+This dripfeed also applies to enemies. Early in the game enemies exhibit simple behaviors and few abilities but as the characters level up and progress to new areas, they meet new monsters with special attacks and more advanced tactics. For the player to encounter these more advanced enemies, they must first defeat the simpler enemies by mastering the basic combat techniques.
+
+4. Control the Flow of Content
+Levels help drip feed mechanics but they also help control how the player navigates the world.
+
+Is there a cave where the monsters are far too hard? Maybe the player can’t tackle it yet, but they’ll remember the cave, it will become a goal, something to return to with stronger characters.
+
+Levels also control how quickly a character can dispatch monsters, which controls how fast and easily a character can travel from place to place and how long a play-through of the game will take.
+
+At the basis of level-based progression, there are experience points. Mathematically speaking, level progression is a function mapping a certain amount of experience to a certain level:
+
+![](images/lf.png)
+
+#### Experience curves
+A function that, given a level, tell us how much experience we need for this:
+
+**Linear**: Every level needs the same extra amount of experience: 10 for Level 2, 20 for Level 3, 30 for Level 4, …
+
+**Exponential**: We always need more experience than the previous level, and therefore we level-up slower at the end game.
+
+**Logarithmic**: At every level, we need less experience to level-up and, consequently, the more we play, the faster we level-up.
+
+![](images/curves.png)
