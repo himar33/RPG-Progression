@@ -55,3 +55,26 @@ Grind: The period of time in a game when the player’s ability to progress is r
 One of the key signs that your game becomes a grind is when there are things the player could be doing, but doing them would be a waste of time at this point. A famous example is from the MMO genre, and if the player runs out of quests at their level range to do, doing lower level quests will not earn them anywhere near the experience needed to keep going.
 
 ![](images/wow.png)
+
+#### How to eliminate grind?
+
+To eliminate or mitigate grind, the first step for any game regardless of design is to look at the trouble areas of your game. At what point do you see people quitting, and is there a period in your game that is taking the longest to get through?
+
+From there, it comes down to adding in more viable options for progressing. One of the simplest, yet effective systems is the concept of “milling.” Milling is a term used in CCG and F2P-styled games, and is the act of taking a resource or item you don’t want, and converting it to something you do.
+
+Knowing how to win, but not being able to do it yet, is one of the worst aspects of padding out a game
+
+Fairy dust in Hearthstone is an example of this practice. We can also see this in Darkest Dungeon with the ability to trade heirlooms.
+
+The more ways for a player to make progress will decrease the chance of the game becoming a grind. Some titles will let any action the player does contribute towards experience or leveling up.
+
+#### Bad example of grinding
+![](images/pachanga.png)
+
+The Inazuma Eleven saga has a mechanic of random matches or friendly matches throughout the game. As you go down the street, from time to time, a team appears that challenges you to a match. These matches are the equivalent in a classic RPG to a combat.
+These fights cannot be avoided in any way, unless you have a special item, difficult to obtain. At first it´s fun, but over time you get tired of repeating the same thing all the time without receiving anything positive in return. This is a form of grinding, in Inazuma Eleven Go it is fixed:
+
+#### Good example of grinding
+![](images/pachanga2.png)
+
+In Inazuma Eleven Go they have some random encounters, but only once per NPC. Then you will find the NPCs in the same place to be able to challenge them if you want. You don't force the player to have to face each other all the time, you let him decide whether to grind or not.
