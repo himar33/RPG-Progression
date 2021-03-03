@@ -161,3 +161,18 @@ function nextLevel(level)
 end
 ```
 ![](images/disgae.png)
+
+### Balancing the game
+#### Why is game balance important in a single-player game?
+Ideally, each type of character build has its own strengths and weaknesses throughout the game's content, but ultimately ALL character builds should feel viable in different ways. No player wants to spend 40 hours working toward a dead-end build.
+
+RPGs, are about choice and consequence. That doesn't just apply to the narrative elements, but also gameplay: character creation, character building, and tactical application of skills and abilities in the wild. If we do our jobs well, players will feel the sting of character weaknesses and the satisfaction of character strengths over the course of the game. Challenge is a tricky thing to balance for a wide range of players, but ideally it builds by giving players short periods of stress and mild frustration caused by a mental obstacle. Players examine the obstacle, consider their options, make choices, and eventually overcome it, transforming stress into a sense of exhilaration at their own ingenuity.
+
+#### What Sort of Decisions Do We Want the Player to Make?
+Strength vs. Charisma, fighter vs. rogue, sword vs. axe—but also, the criteria that drive those decisions. These criteria could be as broad as deciding between a character class that does a lot of damage in combat vs. a class that is great at navigating conversations. Or, they could be as narrow as emphasizing attack speed over damage done on a Critical Hit.
+
+There are two levels at which players generally make these sorts of decisions. The first is aesthetic and conceptual: "Wizards are cool." "Clubs are boring." "Being strong owns."
+
+The second is mechanical/rational: "High damage is important." "Gotta have a healer." "Debuff effects can make a huge difference in fights."
+
+Different players balance these desires differently, but ideally an aesthetic choice will always map to a viable build, and a viable build will map to something players will find cool for their character. When this doesn't happen, it can result in a lot of annoyance from players. They are either forced to play something they conceptually like that is mechanically bad or they have to veer away from their character concept to be mechanically viable.
