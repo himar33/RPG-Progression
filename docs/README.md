@@ -57,7 +57,7 @@ Grind: The period of time in a game when the player’s ability to progress is r
 
 One of the key signs that your game becomes a grind is when there are things the player could be doing, but doing them would be a waste of time at this point. A famous example is from the MMO genre, and if the player runs out of quests at their level range to do, doing lower level quests will not earn them anywhere near the experience needed to keep going.
 
-![](images/wow.png)
+![](images/wow.gif)
 
 #### How to eliminate grind?
 
@@ -161,3 +161,30 @@ function nextLevel(level)
 end
 ```
 ![](images/disgae.png)
+
+### Balancing the game
+#### Why is game balance important in a single-player game?
+Ideally, each type of character build has its own strengths and weaknesses throughout the game's content, but ultimately ALL character builds should feel viable in different ways. No player wants to spend 40 hours working toward a dead-end build.
+
+RPGs, are about choice and consequence. That doesn't just apply to the narrative elements, but also gameplay: character creation, character building, and tactical application of skills and abilities in the wild. If we do our jobs well, players will feel the sting of character weaknesses and the satisfaction of character strengths over the course of the game. Challenge is a tricky thing to balance for a wide range of players, but ideally it builds by giving players short periods of stress and mild frustration caused by a mental obstacle. Players examine the obstacle, consider their options, make choices, and eventually overcome it, transforming stress into a sense of exhilaration at their own ingenuity.
+
+#### What Sort of Decisions Do We Want the Player to Make?
+Strength vs. Charisma, fighter vs. rogue, sword vs. axe—but also, the criteria that drive those decisions. These criteria could be as broad as deciding between a character class that does a lot of damage in combat vs. a class that is great at navigating conversations. Or, they could be as narrow as emphasizing attack speed over damage done on a Critical Hit.
+
+There are two levels at which players generally make these sorts of decisions. The first is aesthetic and conceptual: "Wizards are cool." "Clubs are boring." "Being strong owns."
+
+The second is mechanical/rational: "High damage is important." "Gotta have a healer." "Debuff effects can make a huge difference in fights."
+
+Different players balance these desires differently, but ideally an aesthetic choice will always map to a viable build, and a viable build will map to something players will find cool for their character. When this doesn't happen, it can result in a lot of annoyance from players. They are either forced to play something they conceptually like that is mechanically bad or they have to veer away from their character concept to be mechanically viable.
+
+#### Knowing your audience
+Yes, RPG gamers are a diverse bunch, and what might be fun for one gamer can be agony for another. However, that doesn't mean you can't make a well-balanced, crowd pleasing game. And one of the best ways to do this is to start by understanding the kinds of gamers who play RPGs. Categorized by type, they are:
+
+1. The Casual Gamer: The casual crowd is more interested in progression then challenge. Present them with a battle they cannot defeat in two or three tries, and they'll likely swear off your game forever.
+2. The Hardcore Junkie: There are gamers who want to be challenged at every juncture. They value the sense of accomplishment associated with overcoming heroic tasks more than story progression. Some, like those who play Dark Souls, are just gluttons for punishment.
+3. The Math Nerd: They'll crunch numbers, draw graphs and come up with advanced predictive models, all so they can fully optimize their characters. These gamers don't mind grinding experience, as long as it will help them to improve their character's stats.
+4. The rest of us are gamers who want to be periodically challenged at critical turning points, but prefer to sail through trash mobs. Gamers of this variety enjoy leveling and building powerful characters, but would rather be slightly less powerful than spend the majority of their time grinding out levels.
+
+Determining the percentage of gamers that fall into each category would be difficult, especially in the current gaming climate.
+
+# Thanks for reading this!
