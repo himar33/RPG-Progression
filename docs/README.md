@@ -176,3 +176,13 @@ There are two levels at which players generally make these sorts of decisions. T
 The second is mechanical/rational: "High damage is important." "Gotta have a healer." "Debuff effects can make a huge difference in fights."
 
 Different players balance these desires differently, but ideally an aesthetic choice will always map to a viable build, and a viable build will map to something players will find cool for their character. When this doesn't happen, it can result in a lot of annoyance from players. They are either forced to play something they conceptually like that is mechanically bad or they have to veer away from their character concept to be mechanically viable.
+
+#### Knowing your audience
+Yes, RPG gamers are a diverse bunch, and what might be fun for one gamer can be agony for another. However, that doesn't mean you can't make a well-balanced, crowd pleasing game. And one of the best ways to do this is to start by understanding the kinds of gamers who play RPGs. Categorized by type, they are:
+
+1. The Casual Gamer: The casual crowd is more interested in progression then challenge. Present them with a battle they cannot defeat in two or three tries, and they'll likely swear off your game forever.
+2. The Hardcore Junkie: There are gamers who want to be challenged at every juncture. They value the sense of accomplishment associated with overcoming heroic tasks more than story progression. Some, like those who play Dark Souls, are just gluttons for punishment.
+3. The Math Nerd: They'll crunch numbers, draw graphs and come up with advanced predictive models, all so they can fully optimize their characters. These gamers don't mind grinding experience, as long as it will help them to improve their character's stats.
+4. The rest of us are gamers who want to be periodically challenged at critical turning points, but prefer to sail through trash mobs. Gamers of this variety enjoy leveling and building powerful characters, but would rather be slightly less powerful than spend the majority of their time grinding out levels.
+
+Determining the percentage of gamers that fall into each category would be difficult, especially in the current gaming climate.
