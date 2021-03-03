@@ -186,3 +186,5 @@ Yes, RPG gamers are a diverse bunch, and what might be fun for one gamer can be 
 4. The rest of us are gamers who want to be periodically challenged at critical turning points, but prefer to sail through trash mobs. Gamers of this variety enjoy leveling and building powerful characters, but would rather be slightly less powerful than spend the majority of their time grinding out levels.
 
 Determining the percentage of gamers that fall into each category would be difficult, especially in the current gaming climate.
+
+# Thanks for reading this!
